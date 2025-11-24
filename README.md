@@ -74,9 +74,6 @@ Monte Carlo Derivative Pricing (Matlab)/
 │   └── download_market_data.m       # Market data simulation
 ├── data/                            # Data storage
 ├── results/                         # Output files
-├── docs/                           # Documentation
-├── README_EN.md                    # English documentation
-└── README_CN.md                    # Chinese documentation
 ```
 
 ## 🚀 Installation
