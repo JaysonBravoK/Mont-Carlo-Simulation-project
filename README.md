@@ -15,7 +15,6 @@ A comprehensive MATLAB implementation for pricing various derivative instruments
 - [System Requirements](#system-requirements)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## 🔍 Overview
 
